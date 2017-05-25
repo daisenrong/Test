@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java_jdk6/java_jdk6.iml" filepath="$PROJECT_DIR$/java_jdk6/java_jdk6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_jdk7/java_jdk7.iml" filepath="$PROJECT_DIR$/java_jdk7/java_jdk7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb_jdk6/javaweb_jdk6.iml" filepath="$PROJECT_DIR$/javaweb_jdk6/javaweb_jdk6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb_jdk7/javaweb_jdk7.iml" filepath="$PROJECT_DIR$/javaweb_jdk7/javaweb_jdk7.iml" />
+    </modules>
+  </component>
+</project>
